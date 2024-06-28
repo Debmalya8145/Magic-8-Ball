@@ -15,7 +15,7 @@ To install and run the Magic 8 Ball App on your local machine, follow these step
 macOS with Xcode installed (minimum version 12.0).
 # Clone the Repository
 bash
-git clone https://github.com/yourusername/magic-8-ball-app.git
+git clone [https://github.com/yourusername/magic-8-ball-app.git](https://github.com/dd6924/Magic-8-Ball.git)
 cd magic-8-ball-app
 # Open the Project
 Open the .xcodeproj file in Xcode:
