@@ -39,5 +39,4 @@ Icon made by Freepik from www.flaticon.com.
 Contact
 If you have any questions or feedback, feel free to reach out:
 
-Email: 
-GitHub: 
+Email: santradebmalya17@gmail.com GitHub: Debmalya Santra
